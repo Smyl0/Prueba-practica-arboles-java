@@ -110,5 +110,5 @@ java Main
 
 ## 👤 Autor
 
-Estudiante — Universidad Técnica de Ambato  
+Universidad Técnica de Ambato  
 Asignatura: Estructura de Datos
